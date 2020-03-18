@@ -3,23 +3,19 @@
     "systemType":[
       {
         "code":"TC",
-        "description":"Tarjeta",
-        "deploymentOrder":"1"
+        "description":"Tarjeta"
       },
       {
         "code":"CC",
-        "description":"Cuenta",
-        "deploymentOrder":"2"
+        "description":"Cuenta"
       },
       {
         "code":"PR",
-        "description":"Préstamo",
-        "deploymentOrder":"3"
+        "description":"Préstamo"
       },
       {
         "code":"CD",
-        "description":"Certificado",
-        "deploymentOrder":"4"
+        "description":"Certificado"
       }
     ]
   }
