@@ -1,16 +1,14 @@
 {
-  "holderList":{
-    "holder":[
-      {
-        "holderName":"DANIEL DE JESUS PORRO PASTORA"
-      }
-    ]
-  },
-  "beneficiaryList":{
-    "beneficiary":[
-      {
-        "fullName":"NOHEMY AUXILIADORA PORRO PASTORA"
-      }
-    ]
+  "customerList": {
+	"customer": [
+		{
+			"customerFullName": "LAZARO MANUEL GARCIA RUIZ",
+			"phoneNumber": "88219547",
+			"mail": "lazarogarcia@banpro.com.ni",
+			"birthDate": "1987/03/08",
+			"identificationNumber": "0410803870009M",
+			"userName": "AHORRO"			
+		}
+	]
   }
-  }
+}
