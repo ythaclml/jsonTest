@@ -1,18 +1,36 @@
 {
-	"productList": {
-		"product": [
-			{
-				"productNumber": "10026549843569",
-				"productNumberMask": "1002XXXXXX3569",
-				"productNumberHash": "SDF165BG654D",
-				"productType": "CA",
-				"systemProduct": "CC",
-				"productAlias": "AHORRO",
-				"currencyCode": "1",
-				"currentBalance": 340.0,
-				"alternateCurrencyCode": "2",
-				"alternateCurrentBalance": 10.0
-			}
-		]
-	}
+  "productTypeList":{
+    "productType":[
+      {
+        "productCode":"CA",
+        "productDescription":"Cuentas de Ahorro",
+        "sortOrder":1
+      },
+      {
+        "productCode":"CC",
+        "productDescription":"Cuentas Corrientes",
+        "sortOrder":2
+      },
+      {
+        "productCode":"PR",
+        "productDescription":"Préstamos",
+        "sortOrder":3
+      },
+      {
+        "productCode":"CD",
+        "productDescription":"Certificado de depósitos",
+        "sortOrder":4
+      },
+      {
+        "productCode":"TC",
+        "productDescription":"Tarjetas de crédito",
+        "sortOrder":5
+      },
+      {
+        "productCode":"CF",
+        "productDescription":"Cuentas de efectivo",
+        "sortOrder":6
+      }
+    ]
+  }
 }
