@@ -1,22 +1,18 @@
 {
-  "systemTypesList":{
-    "systemType":[
-      {
-        "code":"TC",
-        "description":"Tarjeta"
-      },
-      {
-        "code":"CC",
-        "description":"Cuenta"
-      },
-      {
-        "code":"PR",
-        "description":"Préstamo"
-      },
-      {
-        "code":"CD",
-        "description":"Certificado"
-      }
-    ]
-  }
+	"productList": {
+		"product": [
+			{
+				"productNumber": "10026549843569",
+				"productNumberMask": "1002XXXXXX3569",
+				"productNumberHash": "SDF165BG654D",
+				"productType": "CA",
+				"systemProduct": "CC",
+				"productAlias": "AHORRO",
+				"currencyCode": "1",
+				"currentBalance": 340.0,
+				"alternateCurrencyCode": "2",
+				"alternateCurrentBalance": 10.0
+			}
+		]
+	}
 }
