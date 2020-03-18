@@ -9,11 +9,8 @@
   "beneficiaryList":{
     "beneficiary":[
       {
-        "fullName":"NOHEMY AUXILIADORA PORRO PASTORA",
-        "relationship":"HERMANA",
-        "percentage":100
+        "fullName":"NOHEMY AUXILIADORA PORRO PASTORA"
       }
     ]
-  },
-  "currentBalance":352416.4
+  }
   }
