@@ -1,0 +1,26 @@
+{
+  "systemTypesList":{
+    "systemType":[
+      {
+        "code":"TC",
+        "description":"Tarjeta",
+        "deploymentOrder":"1"
+      },
+      {
+        "code":"CC",
+        "description":"Cuenta",
+        "deploymentOrder":"2"
+      },
+      {
+        "code":"PR",
+        "description":"Préstamo",
+        "deploymentOrder":"3"
+      },
+      {
+        "code":"CD",
+        "description":"Certificado",
+        "deploymentOrder":"4"
+      }
+    ]
+  }
+}
