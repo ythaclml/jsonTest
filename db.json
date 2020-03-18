@@ -1,0 +1,22 @@
+{
+  "systemTypesList":{
+    "systemType":[
+      {
+        "code":"TC",
+        "description":"Tarjeta"
+      },
+      {
+        "code":"CC",
+        "description":"Cuenta"
+      },
+      {
+        "code":"PR",
+        "description":"Préstamo"
+      },
+      {
+        "code":"CD",
+        "description":"Certificado"
+      }
+    ]
+  }
+}
