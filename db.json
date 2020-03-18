@@ -15,22 +15,5 @@
       }
     ]
   },
-  "currentBalance":352416.4,
-  "initialInvestment":350000,
-  "balanceUponMaturity":350000,
-  "currencyCode":"2",
-  "openingDate":"2019-01-08T00:00:00.000-06:00",
-  "investmentNumber":176995,
-  "interestRate":9,
-  "interestAmount":30895.4,
-  "revaluationAmount":0,
-  "payFrequency":"Mensual",
-  "term":365,
-  "depositType":"Comprobante De Depositos",
-  "agency":"Sucursal Rivas",
-  "interestAccountNumber":"10020414752473",
-  "cancelationAccountNumber":"10023819992967",
-  "status":"Activo",
-  "expirationDate":"2020-01-08T00:00:00.000-06:00",
-  "productAlias":"Certificado Deposito Plazo Fijo (Dol)"
-}
+  "currentBalance":352416.4
+  }
